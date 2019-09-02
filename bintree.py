@@ -2,6 +2,8 @@
 # -*- coding: latin-1 -*-                                                       
 import os, sys
 
+## Implementation of a binary tree in Python by Josefine Klintberg ##
+
 #Implementation of a binary search tree, no repeated values allowed
 
 class Node:
